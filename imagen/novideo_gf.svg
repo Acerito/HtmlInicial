@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120mm"
+   height="50mm"
+   viewBox="0 0 120 50"
+   version="1.1"
+   id="svg40"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="novideo_gf.svg">
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="395.71795"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-247)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.922719px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27306795"
+       x="63.411728"
+       y="253.28127"
+       id="text16"
+       transform="scale(0.96892841,1.032068)"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="63.411728"
+         y="253.28127"
+         style="text-align:center;text-anchor:middle;stroke-width:0.27306795">Video explicativo</tspan><tspan
+         sodipodi:role="line"
+         x="63.411728"
+         y="266.93466"
+         style="text-align:center;text-anchor:middle;stroke-width:0.27306795"
+         id="tspan18">de</tspan><tspan
+         sodipodi:role="line"
+         x="63.411728"
+         y="280.58807"
+         style="text-align:center;text-anchor:middle;stroke-width:0.27306795"
+         id="tspan20">Gabriel Fresart</tspan></text>
+  </g>
+</svg>
